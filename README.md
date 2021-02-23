@@ -17,9 +17,9 @@ GANACHE or Infuria
 
 Refer constants/keys.dart.
 
-1st ) Add your metamask account Address and Private key from Account details option in the chrome extension
-2nd ) Get your deployed address of the smart contract from remix ethereum
-3rd ) Get your infuria project url for rinkeby test net
+- 1st ) Add your metamask account Address and Private key from Account details option in the chrome extension
+- 2nd ) Get your deployed address of the smart contract from remix ethereum
+- 3rd ) Get your infuria project url for rinkeby test net
 
 - More detailed Instructions will be provided
 
