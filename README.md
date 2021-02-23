@@ -13,7 +13,7 @@ Now the missing link is a server that connects our App and BlockChain.
 We can use a local server or we can use
 GANACHE or Infuria
 
-![alt text](http://url/to/Heropyt.png)
+![UI](https://github.com/krish-bhanushali/Heropyt/tree/master/photos/Heropyt.png)
 
 # Instructions
 
